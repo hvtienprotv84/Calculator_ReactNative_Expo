@@ -2,6 +2,7 @@
 - React Native
 - TypeScript
 - Expo
+- Genymotion (Google Nexus 4)
 
 # RUN
 - `npm install`
